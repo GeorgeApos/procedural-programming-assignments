@@ -1,5 +1,5 @@
 # Procedural-programming-C-
-Εδώ θα βρείτε μερικούς από τους κώδικες που γράφτηκαν σε C, την πρώτη γλώσσα προγραμματισμού που έμαθα στο πανεπιστήμιο.
+Here are some of the codes written in C, the first programming language I learned in college.
 
-DISCLAIMER: Γνωρίζω πως κάποιοι από αυτούς ίσως να μην δουλεύουν ή να μπορούσαν να έχουν γραφτεί καλύτερα, αλλά μέσα από όλα αυτά
-θεωρώ πως μπορούμε να αποκομίσουμε κάποια πράγματα και να μάθουμε να γράφουμε καλύτερα.
+DISCLAIMER: I know some of them may not work or they could have been better written, but through it all
+I think we can gain some things and learn to write better and more efficient code.
